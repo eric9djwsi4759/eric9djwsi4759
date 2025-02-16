@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm eric9djwsi4759
 
-<!--
-**eric9djwsi4759/eric9djwsi4759** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏹 🎪 🎮 🎣 A lover of virtual reality 🏹 🎪 🎮 🎣
 
-Here are some ideas to get you started:
+## About Me
+🛼 🎪 🥋 A keen learner of frameworks 🛼 🎪 🥋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🏑 🎱 🚀 🎤 A student of technologies 🏑 🎱 🚀 🎤
+
+### Fun Facts
+🎬 🎳 🎱 🚀 A designer in tech reviews 🎬 🎳 🎱 🚀
+
+---
+🎮 🎯 🏄 🚴 🏊 Thanks for visiting my profile! 🎷 🏒 🎻 🏄 🎾
